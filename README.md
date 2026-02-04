@@ -272,6 +272,3 @@ This is a demonstration/educational project. Use freely!
 - [Anthropic Claude API](https://docs.anthropic.com/)
 - [FAISS](https://github.com/facebookresearch/faiss)
 
-## 📧 Support
-
-For issues or questions, please check the code comments or modify as needed for your use case.
