@@ -261,9 +261,6 @@ Improvements welcome! Consider:
 - Adding metadata filtering
 - Improving answer generation
 
-## 📄 License
-
-This is a demonstration/educational project. Use freely!
 
 ## 🔗 Resources
 
