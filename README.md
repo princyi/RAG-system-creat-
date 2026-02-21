@@ -237,21 +237,7 @@ Number of chunks to retrieve:
 - Fewer (2-3): More focused answers
 - More (5-7): Broader context
 
-## 🐛 Troubleshooting
 
-**Problem**: "No documents loaded"
-- Check file paths are correct
-- Ensure files exist and are readable
-
-**Problem**: "Poor retrieval quality"
-- Try adjusting chunk_size
-- Increase top_k parameter
-- Consider using better embeddings (sentence-transformers)
-
-**Problem**: "LLM integration not working"
-- Verify API key is set correctly
-- Check package is installed
-- Ensure you have API credits
 
 ## 🤝 Contributing
 
