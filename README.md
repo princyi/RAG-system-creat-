@@ -215,8 +215,8 @@ distances, indices = index.search(query_embedding, k=5)
 📝 Answer:
 Based on the retrieved documents, here's what I found:
 
-[Source 1]: Artificial Intelligence (AI) is the simulation of human 
-intelligence by machines. AI systems can perform tasks that typically 
+[Source 1]: Machine learning (ML) is the simulation of AI
+intelligence by machines. ML systems can perform tasks that typically 
 require human intelligence, such as visual perception, speech 
 recognition, decision-making, and language translation...
 
